@@ -69,4 +69,4 @@ Solution stack:
 - tdd, agile, scrum, c#, wpf, mvvm, xaml, entity framework, svn, prism, mef, caliburn micro, telerik.
 
 ## Education
-- Bachelor of Computer Science (Graduated with Distinction), University of Wollongong
+- Bachelor of Computer Science, University of Wollongong
