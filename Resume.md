@@ -32,9 +32,9 @@ Solution stack:
 #### Software Developer
 
 - Continuous development of real-time, distributed and automated sport trading systems and infrastructure.
-- 
+
 - Build with non-functional concerns such as latency, scalability and performance.
-- 
+
 - Continuous deployment environment.
 
 Solution stack:
