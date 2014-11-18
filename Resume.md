@@ -45,6 +45,18 @@ Solution stack:
 
 #### Systems Analyst
 
+- Taking charge of Energy Trading Information System (ETIS) where energy traders use it to monitor on the powering of different plants on each period that allows them to forecast the amount of fuel for the nomination period. It also provides fuel management operators with values gather from plants meter to generate monthly and yearly reports.
+ 
+- Taking charge of Spot Market Trading System (SMART) where energy traders create offers and nominate to Energy Market Company (EMC).
+
+- Revamping of Energy Trading Information System (ETIS).
+
+- Developing Optimization Tools for the gas traders and energy traders to forecast the amount of gas/fuel need for nomination base on a number of factors. (Ex. Plant availiability, fuel cost etc..)
+
+Solution stack:
+- tdd, agile, scrum, c#, wpf, mvvm, xaml, entity framework, TFS, prism, mef, caliburn micro, telerik.
+
+
 ### Ardmore Park Capital, LLC (March 2011 – June 2012)
 
 #### Software Developer
