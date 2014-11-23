@@ -27,8 +27,8 @@
 - Continuous deployment environment.
 
 Solution stack:
-- tdd, scrum, agile, c#, azure, github, octopus deploy, team city, .net 4.5, mvc 4, .net 4.5 async await, c#, knockoutjs, rx (reactive extensions), redis, signalR.
-
+- tdd, scrum, agile, c#, azure, github, octopus deploy, team city, .net 4.5, .net 4.5 async await, mvc 4, mvc 5, c#, knockoutjs, rx (reactive extensions), redis, signalR.
+,
 
 ### Senoko Energy Pte Ltd (July 2012 – May 2013)
 
