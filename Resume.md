@@ -9,7 +9,7 @@
 
 ## Professional Experience
 
-### Keritos Pte Ltd (March 2014 – Present)
+### Keritos Pte Ltd (May 2013 – Present)
 
 #### Software Developer
 
@@ -22,23 +22,12 @@
 - Source control using git and github.
 - Agile software development using scrum.
 - azure, agile, scrum, tdd, git, aspnet mvc 5, redis, reactive extension, bootstrap, knockoutjs.
-
-Solution stack:
-- tdd, scrum, azure, github, octopus deploy, team city, .net 4.5, c#, knockoutjs, signalr.
-
-
-### Maloft Pte Ltd (May 2013 – March 2014)
-
-#### Software Developer
-
 - Continuous development of real-time, distributed and automated sport trading systems and infrastructure.
-
 - Build with non-functional concerns such as latency, scalability and performance.
-
 - Continuous deployment environment.
 
 Solution stack:
-- tdd, scrum, agile, c#, rx (reactive extensions), redis, mvc 4,.net 4.5 async await, signalR.
+- tdd, scrum, agile, c#, azure, github, octopus deploy, team city, .net 4.5, mvc 4, .net 4.5 async await, c#, knockoutjs, rx (reactive extensions), redis, signalR.
 
 
 ### Senoko Energy Pte Ltd (July 2012 – May 2013)
