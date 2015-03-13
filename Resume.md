@@ -9,7 +9,11 @@
 
 ## Professional Experience
 
-### Keritos Pte Ltd (May 2013 – Present)
+### Smart Communities Pte Ltd (Jan 2015 – Present)
+
+#### Senior Software Developer
+
+### Keritos Pte Ltd (May 2013 – Dec 2014)
 
 #### Software Developer
 
