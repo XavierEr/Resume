@@ -13,6 +13,11 @@
 
 #### Senior Software Developer
 
+- Implement Agile SCRUM methodology process
+- Start/Help the development team to start with Test Driven Development approach
+- Setting up CI using TeamCity and local private NuGet Gallery
+- Responsible for the front/back end development of the systems.
+
 ### Keritos Pte Ltd (May 2013 – Dec 2014)
 
 #### Software Developer
