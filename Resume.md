@@ -19,7 +19,8 @@
 - Responsible for the front/back end development of the systems.
 
 Solution Stack:
-- tdd, bitbucket, agile, scrum, azure, jenkins, c# 6.0, angularjs, azure api app, swagger, swashbuckle
+- tdd, bitbucket, agile, scrum, azure, jenkins, c# 6.0, angularjs, azure api app, swagger, swashbuckle.
+
 
 ### Maloft Pte Ltd / Keritos Pte Ltd (May 2013 – Dec 2014)
 
