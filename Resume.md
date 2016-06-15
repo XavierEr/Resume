@@ -18,6 +18,9 @@
 - Setting up CI using TeamCity and local private NuGet Gallery
 - Responsible for the front/back end development of the systems.
 
+Solution Stack:
+- tdd, bitbucket, agile, scrum, azure, jenkins, c# 6.0, angularjs, azure api app, swagger, swashbuckle
+
 ### Maloft Pte Ltd / Keritos Pte Ltd (May 2013 – Dec 2014)
 
 #### Software Developer
@@ -36,8 +39,8 @@
 - Continuous deployment environment.
 
 Solution stack:
-- tdd, scrum, agile, c#, azure, github, octopus deploy, team city, .net 4.5, .net 4.5 async await, mvc 4, mvc 5, c#, knockoutjs, rx (reactive extensions), redis, signalR.
-,
+- tdd, scrum, agile, c#, azure, github, octopus deploy, team city, .net 4.5, .net 4.5 async await, mvc 4, mvc 5, knockoutjs, rx (reactive extensions), redis, signalR.
+
 
 ### Senoko Energy Pte Ltd (July 2012 – May 2013)
 
