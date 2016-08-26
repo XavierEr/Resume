@@ -11,7 +11,7 @@
 
 ### Smart Communities Pte Ltd (Jan 2015 – Present)
 
-#### Senior Software Developer (Team Lead)
+#### Senior Software Developer
 
 - Implement Agile SCRUM methodology process
 - Start/Help the development team to start with Test Driven Development approach
@@ -19,7 +19,7 @@
 - Responsible for the front/back end development of the systems.
 
 Solution Stack:
-- tdd, bitbucket, agile, scrum, azure, jenkins, c# 6.0, angularjs, azure api app, swagger, swashbuckle.
+- tdd, bitbucket, agile, scrum, azure, jenkins, c# 6.0, angularjs, azure api app, swagger, swashbuckle, redis, signalR.
 
 
 ### Maloft Pte Ltd / Keritos Pte Ltd (May 2013 – Dec 2014)
