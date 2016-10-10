@@ -9,7 +9,7 @@
 
 ## Professional Experience
 
-### Smart Communities Pte Ltd (Jan 2015 – Present)
+### Smart Communities Pte Ltd (Jan 2015 – Sept 2016)
 
 #### Senior Software Developer
 
