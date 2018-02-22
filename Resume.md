@@ -11,13 +11,13 @@
 
 ### Wego Pte Ltd (Oct 2016 - Current)
 
-#### Frontend Engineer
+#### Senior Frontend Engineer
 
 - Mobile web development with Polymer with with progressive web app (PWA) architecture.
 - Desktop web development with Polymer.
 
 Solution Stack:
-- reactjs, polymer, webpack, nodejs, pwa.
+- reactjs, polymer, webpack, nodejs, pwa, webcomponents.
 
 ### Smart Communities Pte Ltd (Jan 2015 – Sept 2016)
 
