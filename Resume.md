@@ -17,7 +17,7 @@
 - Desktop web development with Polymer.
 
 Solution Stack:
-- reactjs, polymer, webpack, nodejs, pwa, webcomponents.
+- reactjs, polymer, webpack, nodejs, pwa, webcomponents, handlebarsjs, ansible.
 
 ### Smart Communities Pte Ltd (Jan 2015 – Sept 2016)
 
