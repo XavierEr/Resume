@@ -11,7 +11,17 @@
 
 ### Wego Pte Ltd (Oct 2016 - Current)
 
-#### Senior Frontend Engineer
+#### Lead Engineer (Frontend) (Oct 2016 - Jan 2019)
+
+- Work closely with stakeholders to establish technology strategy and to provider technical solutions that deliver to business needs.
+- Provide leadership and technical direction for multidisciplinary teams.
+- Assisting in defining software architectures.
+- Contribute to the design, estimation, planning and implementation of products.
+- Performance monitoring.
+- Provides guidance and training to less experienced programmers.
+- Building software applications by following coding standards/best practices, building appropriate unit tests, integrations tests and deployment scripts.
+
+#### Senior Frontend Engineer (Oct 2016 - Jan 2019)
 
 - Mobile web development with Polymer with with progressive web app (PWA) architecture.
 - Desktop web development with Polymer.
