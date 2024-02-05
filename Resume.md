@@ -9,9 +9,9 @@
 
 ## Professional Experience
 
-### Wego Pte Ltd (Oct 2016 - Current)
+### Wego Pte Ltd (Oct 2016 - Dec 2022)
 
-#### Lead Engineer (Frontend) (Jan 2019 - Current)
+#### Lead Engineer (Frontend) (Jan 2019 - Dec 2022)
 
 - Work closely with stakeholders to establish technology strategy and to provider technical solutions that deliver to business needs.
 - Provide leadership and technical direction for multidisciplinary teams.
